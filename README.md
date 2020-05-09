@@ -1,9 +1,6 @@
-This file is mandatory in all Holberton Scholl projects.
-
 # Holberton School
 
 ## 0-Day - 0-Day
-
 ![Shell](https://raw.githubusercontent.com/cristiand187/holbertonschool-zero_day/master/shell.jpeg)
 
 
