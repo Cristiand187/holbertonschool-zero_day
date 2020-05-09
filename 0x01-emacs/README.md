@@ -20,6 +20,15 @@ What you should learn from this project:
 * How to cancel half-entered commands
 * How to quit Emacs
 
+## :brench: Install emacs
+
+In your terminal:
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install emacs
+```
+
 ---
 ## :computer: Task
 
