@@ -4,7 +4,7 @@ This file is mandatory in all Holberton Scholl projects.
 
 ## 0-Day - 0-Day
 
-![Shell](https://raw.githubusercontent.com/cristiand187/holbertonschool-zero_day/master/shell.jpg)
+![Shell](https://raw.githubusercontent.com/cristiand187/holbertonschool-zero_day/master/shell.jpeg)
 
 
 ## :books: Projecs
