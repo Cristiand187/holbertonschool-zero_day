@@ -20,7 +20,7 @@ What you should learn from this project:
 * How to cancel half-entered commands
 * How to quit Emacs
 
-## :brench: Install emacs
+## :wrench: Install emacs
 
 In your terminal:
 ```
